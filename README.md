@@ -19,3 +19,7 @@
 下载与检查更新无需登录 GitHub。首次使用网页自动化时，可能需要在设置中另行安装浏览器执行环境。
 
 每个版本提供安装包、更新 JSON、更新签名、校验和及构建器元数据。更新 JSON 和签名是客户端使用的配套文件，普通用户只需下载 EXE 安装包。
+
+## 隐私政策
+
+[NarrFlow 浏览器连接隐私政策](https://github.com/wktdh/NarrFlow-Releases/blob/main/privacy-policy.md)：数据用途、权限、可选行为观察、AI 服务传输和删除方式。
